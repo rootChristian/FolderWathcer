@@ -1,0 +1,7 @@
+C:\Users\kemgang\Desktop\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe.config
+C:\Users\kemgang\Desktop\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.exe
+C:\Users\kemgang\Desktop\FolderWatcher\FolderWatcher\bin\Debug\FolderWatcher.pdb
+C:\Users\kemgang\Desktop\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.csprojAssemblyReference.cache
+C:\Users\kemgang\Desktop\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.csproj.CoreCompileInputs.cache
+C:\Users\kemgang\Desktop\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.exe
+C:\Users\kemgang\Desktop\FolderWatcher\FolderWatcher\obj\Debug\FolderWatcher.pdb

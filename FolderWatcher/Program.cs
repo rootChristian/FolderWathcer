@@ -102,7 +102,8 @@ namespace FolderWatcher
 
         private void OnRenamed(object sender, RenamedEventArgs e)
         {
-            this.OnChangeAll.Add(string.Format($"Renamed ({DateTime.Now}): \nOld:{0} \nNew: {1}", e.OldFullPath, e.FullPath));
+            var result = string.Format("Renamed ({0}): \nOld:{1} \nNew: {2}\n", DateTime.Now, e.OldFullPath, e.FullPath);
+            this.OnChangeAll.Add(result);
         }
 
         private void OnError(object sender, ErrorEventArgs e) =>
